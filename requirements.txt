@@ -1,3 +1,4 @@
 rsa
 pyaes
 asyncio
+async-generator
