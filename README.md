@@ -1,1 +1,2 @@
-# cryptomier by blackholesec
+# cryptomier bot auto claim
+Script by @blackholesec
