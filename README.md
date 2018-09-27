@@ -1,3 +1,3 @@
 # cryptomier bot auto claim
-#Authot
-- @blackholesec
+# Author
+- @blackholesec https://github.com/blackholesec
